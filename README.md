@@ -19,7 +19,7 @@ const chhavi = {
   name: "Chhavi Tiwari",
   username: "chhaviTiwari63",
   location: "India 🇮🇳",
-  role: "Full Stack Developer",
+  role: "Web Developer",
   focus: ["Women Safety Tech", "Campus Innovation", "Sustainability"],
   languages: ["TypeScript", "JavaScript", "Python", "PHP", "HTML/CSS"],
   currentlyBuilding: "UniScout Portal & Harit Kranti",
