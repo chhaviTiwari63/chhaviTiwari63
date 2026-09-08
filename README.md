@@ -13,33 +13,30 @@
 
 ---
 
-### 💻 Developer Terminal
+### 👩‍💻 About Me
 
-```json
-{
-  "name": "Chhavi Tiwari",
-  "education": {
-    "degree": "B.Tech in Computer Science",
-    "institution": "Galgotias University (2023 - 2027)",
-    "cgpa": "8.8 / 10"
-  },
-  "competitive_programming": {
-    "dsa_solved": "600+ Problems",
-    "leetcode_rating": "1600+",
-    "leetcode_badges": "6+ Badges"
-  },
-  "achievements": [
-    "Smart India Hackathon (SIH) 2025 - Top 50 Teams",
-    "Java Programming Certification - GUVI (Jan 2025)",
-    "Database Management System Certification - Oracle (Jan 2025)"
-  ],
-  "current_focus": "Building high-performance MERN stack apps & AI API integrations"
-}
-```
+<table align="center">
+  <tr>
+    <td width="32%" align="center">
+      <img src="./dev_avatar.jpg" width="100%" style="border-radius:15px;" alt="Chhavi Tiwari - Cartoon Developer Mascot"/>
+    </td>
+    <td width="68%" valign="top">
+      <h3>👋 Hi, I'm Chhavi!</h3>
+      <p>I'm a 3rd-year <b>B.Tech Computer Science student @ Galgotias University</b> (CGPA: <b>8.8/10</b>) with a passion for web development, algorithm design, and AI integrations.</p>
+      <ul>
+        <li>💡 Solved <b>600+ Data Structures & Algorithms</b> problems | <b>1600+ Rating</b> on LeetCode</li>
+        <li>🏆 Finalist & Ranked in the <b>Top 50 Teams</b> in <b>Smart India Hackathon (SIH) 2025</b></li>
+        <li>🌾 Developed <b>Smart Crop Advisory System</b> (AI agricultural guidance platform using Gemini & Maps APIs)</li>
+        <li>🎓 Developed <b>Student ERP Website</b> (Centralized academic management system with JWT & Google Calendar)</li>
+        <li>📜 Certified in <b>Java Programming</b> (GUVI) & <b>Database Management Systems</b> (Oracle)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Skills & Technologies
 
 <table>
   <tr>
