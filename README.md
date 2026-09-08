@@ -22,7 +22,7 @@
     </td>
     <td width="68%" valign="top">
       <h3>👋 Hi, I'm Chhavi!</h3>
-      <p>I'm a 3rd-year <b>B.Tech Computer Science student @ Galgotias University</b> (CGPA: <b>8.8/10</b>) with a passion for web development, algorithm design, and AI integrations.</p>
+      <p>I'm a 4th-year <b>B.Tech Computer Science student @ Galgotias University</b> (CGPA: <b>8.8/10</b>) with a passion for web development, algorithm design, and AI integrations.</p>
       <ul>
         <li>💡 Solved <b>600+ Data Structures & Algorithms</b> problems | <b>1600+ Rating</b> on LeetCode</li>
         <li>🏆 Finalist & Ranked in the <b>Top 50 Teams</b> in <b>Smart India Hackathon (SIH) 2025</b></li>
