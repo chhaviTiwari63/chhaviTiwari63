@@ -62,11 +62,25 @@ A centralized administrative and academic portal for managing student records, c
 
 ---
 
-### 🎮 Contribution Grid & Streak Game
+### 🎮 Developer Arcade & Contribution Streak Games
 
-<!-- Snake Contribution Animation -->
+#### 🐍 1. Snake Game on Contribution Streak
 <div align="center">
   <img src="https://raw.githubusercontent.com/chhaviTiwari63/chhaviTiwari63/output/github-contribution-grid-snake.svg" alt="Snake eating contribution grid" width="100%"/>
+</div>
+
+<br>
+
+#### 🕹️ 2. 3D Minecraft Contribution World Grid
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chhaviTiwari63/chhaviTiwari63/main/profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Contribution Grid" width="100%"/>
+</div>
+
+<br>
+
+#### 📊 3. Retro Activity & Streak Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chhaviTiwari63&theme=tokyonight&area=true&hide_border=true&border_radius=8" alt="Activity Wave Graph" width="100%"/>
 </div>
 
 <br>
